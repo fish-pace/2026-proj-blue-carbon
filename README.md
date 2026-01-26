@@ -30,10 +30,10 @@ need to share large datasets.
 
 ## Planning
 
-* Initial idea: "short description"
+* Initial idea: "Comparative analysis showing what hyperspectral PACE data can add to mangrove species or stress discrimination, with a short methods write-up. Can PACE help improve mangrove mapping, helping to create future assessments for blue carbon storage."
 * Ideation jam board: Add link
 * Ideation Presentation: Add link
-* Slack channel: fp25_proj_name
+* Slack channel: proj-blue-carbon
 * Project google drive: Add link
 * Final presentation: Add link
 
