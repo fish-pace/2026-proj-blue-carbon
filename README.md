@@ -9,8 +9,9 @@
 | Name                | Role                |
 |---------------------|---------------------|
 | Rose Coggins        | Project Facilitator |
-| Participant 2       | Participant         |
-| Participant 3       | Participant         |
+| Janelle Levine      | Participant         |
+| Michelle Fasona     | Participant         |
+| Shulhan             | Participant         |
 
 ## Planning
 
