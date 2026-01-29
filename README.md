@@ -1,4 +1,4 @@
-# proj-blue-carbon
+# proj-blue-monday
 
 ## Overview
 
