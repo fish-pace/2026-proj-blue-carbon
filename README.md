@@ -30,6 +30,23 @@
 
 ## Workflow/Roadmap
 
+```mermaid
+flowchart TD
+  C{What can PACE improve on mangrove mapping?}
+    C -->D[Spectral Resolution]
+    D-->G[What spectral wavelength works best in mapping mangrove?]
+    D-->K[What wavelength combination works best?]
+
+    C -->E[Temporal Resolution]
+    E-->H[Daily] 
+    E-->I[8 Day]
+    E-->J[Monthly]
+
+    C --->F[How can PACE study the ecosystem surrounding the mangroves?]
+    F-->L[Ocean]
+    F-->M[Oil spill]
+```
+
 ## Results/Findings
 
 ## Lessons Learned
