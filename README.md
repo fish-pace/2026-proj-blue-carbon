@@ -1,7 +1,7 @@
 # proj-blue-monday
 
 ## Overview
-
+This project explores whether hyperspectral observations from NASA’s PACE Ocean Color Instrument (OCI) can improve the characterization of mangrove ecosystems, particularly in highly disturbed coastal regions. Using the Niger Delta as a case study, we assess whether hyperspectral data provides additional information beyond traditional multispectral approaches for distinguishing mangroves and identifying potential stress signals.
 ## Planning
 
 ## Collaborators
